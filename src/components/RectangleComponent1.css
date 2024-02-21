@@ -1,8 +1,8 @@
-.notLoggedInDesktopChild {
+.rectangle-section {
   position: absolute;
-  top: 72px;
+  top: 4.5rem;
   left: 0;
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.6));
-  width: 1440px;
-  height: 440px;
+  width: 90rem;
+  height: 27.5rem;
 }

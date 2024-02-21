@@ -1,0 +1,828 @@
+.not-logged-in-desktop-child {
+  position: absolute;
+  top: 4.5rem;
+  left: 0;
+  width: 90rem;
+  height: 27.5rem;
+  background-image: url(/public/rectangle2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.whole-icon {
+  position: absolute;
+  top: 1.5rem;
+  left: 4.5rem;
+  width: 10.163rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 21px;
+  background-color: #f2f2f2;
+  width: 22.5rem;
+  height: 2.625rem;
+}
+.group-child {
+  position: absolute;
+  top: 0.625rem;
+  left: 0.875rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.search-for-your {
+  position: absolute;
+  top: 0.75rem;
+  left: 3.125rem;
+  font-weight: 500;
+}
+.rectangle-group {
+  position: absolute;
+  top: 1rem;
+  left: 33.75rem;
+  width: 22.5rem;
+  height: 2.625rem;
+}
+.create-account {
+  font-weight: 500;
+}
+.its-free {
+  color: #2f6ce5;
+}
+.create-account-its-container {
+  position: absolute;
+  top: 1.688rem;
+  left: 72.563rem;
+  font-size: 1rem;
+  text-align: right;
+  color: #2e2e2e;
+}
+.baseline-arrow-drop-down-24px-icon {
+  position: absolute;
+  top: 1.625rem;
+  left: 84rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 4.5rem;
+  text-align: left;
+  font-size: 0.875rem;
+  color: #5c5c5c;
+  font-family: "IBM Plex Sans";
+}
+.computer-engineering {
+  margin: 0;
+  position: absolute;
+  top: 22.375rem;
+  left: 12.5rem;
+  font-size: 2.25rem;
+  font-weight: 700;
+  font-family: inherit;
+  color: #fff;
+}
+.computer-engineers-follow {
+  position: absolute;
+  top: 25.563rem;
+  left: 12.5rem;
+  color: #fff;
+}
+.line {
+  top: 37.469rem;
+  left: 12.469rem;
+  border-top: 1px solid #e0e0e0;
+  width: 65.063rem;
+}
+.line,
+.line1,
+.not-logged-in-desktop-item {
+  position: absolute;
+  box-sizing: border-box;
+  height: 0.063rem;
+}
+.line1 {
+  top: 33.969rem;
+  left: 4.469rem;
+  border-top: 1px solid #e0e0e0;
+  width: 81.063rem;
+  opacity: 0;
+}
+.not-logged-in-desktop-item {
+  top: 37.469rem;
+  left: 12.469rem;
+  border-top: 1px solid #000;
+  width: 5.875rem;
+}
+.all-posts32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #000;
+}
+.article,
+.education,
+.event,
+.job {
+  position: absolute;
+  top: 0;
+  left: 7.063rem;
+}
+.education,
+.event,
+.job {
+  left: 11.25rem;
+}
+.education,
+.job {
+  left: 14.938rem;
+}
+.job {
+  left: 20.688rem;
+}
+.all-posts32-parent {
+  position: absolute;
+  top: 34.938rem;
+  left: 12.5rem;
+  width: 22.375rem;
+  height: 1.313rem;
+  font-size: 1rem;
+  color: #8a8a8a;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #edeef0;
+  width: 8.313rem;
+  height: 2.25rem;
+}
+.write-a-post {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.75rem;
+  font-weight: 500;
+}
+.baseline-arrow-drop-down-24px-icon1 {
+  position: absolute;
+  top: 0.438rem;
+  left: 6.563rem;
+  width: 1.375rem;
+  height: 1.375rem;
+  overflow: hidden;
+}
+.rectangle-container {
+  position: absolute;
+  top: 34.5rem;
+  left: 60.375rem;
+  width: 8.313rem;
+  height: 2.25rem;
+  font-size: 0.938rem;
+}
+.outline-location-on-24px-2-icon {
+  position: absolute;
+  top: 41rem;
+  left: 62.313rem;
+  width: 1.125rem;
+  height: 1.125rem;
+  overflow: hidden;
+}
+.not-logged-in-desktop-inner {
+  position: absolute;
+  top: 42.8rem;
+  left: 62.3rem;
+  border-top: 0.4px solid #b8b8b8;
+  box-sizing: border-box;
+  width: 15.213rem;
+  height: 0.025rem;
+}
+.noida-india {
+  position: absolute;
+  top: 41rem;
+  left: 63.688rem;
+  font-size: 0.875rem;
+}
+.baseline-edit-24px-icon {
+  position: absolute;
+  top: 40.938rem;
+  left: 76.25rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+}
+.your-location-will {
+  position: absolute;
+  top: 0;
+  left: 1.438rem;
+  display: inline-block;
+  width: 13.75rem;
+  opacity: 0.5;
+}
+.baseline-error-outline-24px-icon {
+  position: absolute;
+  top: 0.063rem;
+  left: 0;
+  width: 1rem;
+  height: 1rem;
+  overflow: hidden;
+  opacity: 0.5;
+}
+.your-location-will-help-us-ser-parent {
+  position: absolute;
+  top: 44.813rem;
+  left: 62.313rem;
+  width: 15.188rem;
+  height: 2rem;
+  font-size: 0.75rem;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #2f6ce5;
+  width: 7.813rem;
+  height: 2.25rem;
+}
+.join-group {
+  position: absolute;
+  top: 0.5rem;
+  left: 2.375rem;
+  font-weight: 500;
+}
+.baseline-group-add-24px-icon {
+  position: absolute;
+  top: 0.438rem;
+  left: 0.625rem;
+  width: 1.375rem;
+  height: 1.375rem;
+  overflow: hidden;
+}
+.group-div {
+  position: absolute;
+  top: 34.5rem;
+  left: 69.688rem;
+  width: 7.813rem;
+  height: 2.25rem;
+  font-size: 0.938rem;
+  color: #fff;
+}
+.rectangle-div {
+  position: absolute;
+  top: 30.438rem;
+  left: -0.062rem;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  width: 43.375rem;
+  height: 29.625rem;
+}
+.baseline-more-vert-24px-icon {
+  position: absolute;
+  top: 47.75rem;
+  left: 40.25rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  overflow: hidden;
+  object-fit: contain;
+}
+.education1,
+.tax-benefits-for {
+  position: absolute;
+  top: 45.5rem;
+  left: 1.25rem;
+  font-weight: 500;
+}
+.tax-benefits-for {
+  margin: 0;
+  top: 47.688rem;
+  font-size: 1.375rem;
+  line-height: 134.55%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 37.5rem;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 30.5rem;
+  left: 0;
+  border-radius: 4px 4px 0 0;
+  width: 43.25rem;
+  height: 13.75rem;
+  object-fit: cover;
+}
+.group-child1,
+.ive-worked-in {
+  position: absolute;
+  left: 1.25rem;
+}
+.ive-worked-in {
+  margin: 0;
+  top: 52.188rem;
+  font-size: 1.188rem;
+  line-height: 134.17%;
+  font-weight: 400;
+  font-family: inherit;
+  color: #5c5c5c;
+  display: inline-block;
+  width: 40.75rem;
+}
+.group-child1 {
+  top: 55.75rem;
+  border-radius: 24px;
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+}
+.sarah-west {
+  position: absolute;
+  top: 56.5rem;
+  left: 4.875rem;
+  font-weight: 600;
+}
+.iconactionvisibility-24px {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.125rem;
+  height: 1.125rem;
+}
+.group,
+.k-views {
+  position: absolute;
+}
+.k-views {
+  top: 0;
+  left: 1.625rem;
+  font-weight: 500;
+}
+.group {
+  top: 56.688rem;
+  left: 30.938rem;
+  width: 5.938rem;
+  height: 1.125rem;
+  text-align: right;
+  font-size: 0.875rem;
+  color: #525252;
+}
+.group-child2,
+.rectangle-textarea {
+  position: absolute;
+  background-color: #fff;
+  box-sizing: border-box;
+}
+.rectangle-textarea {
+  border: 1px solid #e0e0e0;
+  outline: 0;
+  top: 60.938rem;
+  left: -0.062rem;
+  border-radius: 4px;
+  width: 43.375rem;
+  height: 30.75rem;
+}
+.group-child2 {
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 0.7px solid #a9aeb8;
+  width: 40.75rem;
+  height: 2.375rem;
+}
+.visit-website {
+  position: absolute;
+  top: 0.625rem;
+  left: 17.875rem;
+  line-height: 140.4%;
+  font-weight: 600;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 83rem;
+  left: 1.25rem;
+  width: 40.75rem;
+  height: 2.375rem;
+  text-align: center;
+  font-size: 0.813rem;
+  color: #e56135;
+}
+.outline-location-on-24px-icon {
+  position: absolute;
+  top: 0;
+  left: 12.875rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+}
+.ahmedabad-india,
+.fri-12-oct {
+  position: absolute;
+  top: 0;
+  left: 14.375rem;
+  font-weight: 500;
+}
+.fri-12-oct {
+  left: 1.5rem;
+  display: inline-block;
+  width: 8.875rem;
+}
+.baseline-today-24px-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+}
+.outline-location-on-24px-parent {
+  position: absolute;
+  top: 80.75rem;
+  left: 1.25rem;
+  width: 22.375rem;
+  height: 1.25rem;
+  font-size: 0.938rem;
+}
+.baseline-more-vert-24px-icon1,
+.vector-icon {
+  position: absolute;
+  overflow: hidden;
+  object-fit: contain;
+}
+.vector-icon {
+  height: 1.83%;
+  width: 5.2%;
+  top: 71.39%;
+  right: 3.03%;
+  bottom: 26.78%;
+  left: 91.76%;
+  border-radius: 4px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.baseline-more-vert-24px-icon1 {
+  top: 78.25rem;
+  left: 39.938rem;
+  width: 1.75rem;
+  height: 1.75rem;
+}
+.finance-investment,
+.meetup {
+  position: absolute;
+  top: 76rem;
+  left: 1.25rem;
+  font-weight: 500;
+}
+.finance-investment {
+  margin: 0;
+  top: 78.188rem;
+  font-size: 1.375rem;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 37.5rem;
+}
+.group-child3,
+.group-child4 {
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+.group-child3 {
+  top: 61rem;
+  border-radius: 4px 4px 0 0;
+  width: 43.25rem;
+  height: 13.75rem;
+}
+.group-child4 {
+  top: 0;
+  border-radius: 24px;
+  width: 3rem;
+  height: 3rem;
+}
+.ronal-jones {
+  position: absolute;
+  top: 0.75rem;
+  left: 3.625rem;
+  font-weight: 600;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 87.375rem;
+  left: 1.25rem;
+  width: 10rem;
+  height: 3rem;
+}
+.iconactionvisibility-24px1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.125rem;
+  height: 1.125rem;
+  object-fit: cover;
+}
+.group1 {
+  position: absolute;
+  top: 88.313rem;
+  left: 30.938rem;
+  width: 5.938rem;
+  height: 1.125rem;
+  text-align: right;
+  font-size: 0.875rem;
+  color: #525252;
+}
+.group-child5 {
+  border: 1px solid #e0e0e0;
+  background-color: #fff;
+  outline: 0;
+  position: absolute;
+  top: 92.563rem;
+  left: -0.062rem;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 43.375rem;
+  height: 16.938rem;
+}
+.group2 {
+  position: absolute;
+  top: 106.125rem;
+  left: 30.938rem;
+  width: 5.938rem;
+  height: 1.125rem;
+  text-align: right;
+  font-size: 0.875rem;
+  color: #525252;
+}
+.baseline-more-vert-24px-icon2 {
+  position: absolute;
+  top: 96.125rem;
+  left: 40.25rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  overflow: hidden;
+  object-fit: contain;
+}
+.job1,
+.software-developer {
+  position: absolute;
+  top: 93.875rem;
+  left: 1.25rem;
+  font-weight: 500;
+}
+.software-developer {
+  margin: 0;
+  top: 96.063rem;
+  font-size: 1.375rem;
+  line-height: 134.55%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 37.5rem;
+}
+.group-child6 {
+  position: absolute;
+  top: 105.188rem;
+  left: 1.25rem;
+  border-radius: 24px;
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+}
+.joseph-gray {
+  position: absolute;
+  top: 105.938rem;
+  left: 4.875rem;
+  font-weight: 600;
+}
+.outline-location-on-24px-icon1 {
+  position: absolute;
+  top: 0;
+  left: 18.125rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+}
+.innovaccer-analytics-private,
+.noida-india1 {
+  position: absolute;
+  top: 0;
+  left: 19.625rem;
+  font-weight: 500;
+}
+.innovaccer-analytics-private {
+  left: 1.5rem;
+}
+.outline-location-on-24px-group {
+  position: absolute;
+  top: 98.688rem;
+  left: 1.25rem;
+  width: 24.938rem;
+  height: 1.25rem;
+  font-size: 0.938rem;
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 0.7px solid #a9aeb8;
+  box-sizing: border-box;
+  width: 40.625rem;
+  height: 2.25rem;
+}
+.apply-on-timesjobs {
+  position: absolute;
+  top: 0.563rem;
+  left: 16.625rem;
+  line-height: 140.4%;
+  font-weight: 600;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 100.938rem;
+  left: 1.375rem;
+  width: 40.625rem;
+  height: 2.25rem;
+  text-align: center;
+  font-size: 0.813rem;
+  color: #02b875;
+}
+.group-icon {
+  position: absolute;
+  top: 17.25rem;
+  left: 40.25rem;
+  width: 1.75rem;
+  height: 1.75rem;
+}
+.article1,
+.what-if-famous {
+  position: absolute;
+  top: 15rem;
+  left: 1.25rem;
+  font-weight: 500;
+}
+.what-if-famous {
+  margin: 0;
+  top: 17.188rem;
+  font-size: 1.375rem;
+  line-height: 134.17%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 37.5rem;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px 4px 0 0;
+  width: 43.25rem;
+  height: 13.75rem;
+  object-fit: cover;
+}
+.ive-worked-in1 {
+  margin: 0;
+  position: absolute;
+  top: 21.688rem;
+  left: 1.25rem;
+  font-size: 1.188rem;
+  line-height: 134.17%;
+  font-weight: 400;
+  font-family: inherit;
+  color: #5c5c5c;
+  display: inline-block;
+  width: 40.75rem;
+}
+.group3 {
+  position: absolute;
+  top: 26.188rem;
+  left: 30.938rem;
+  width: 5.938rem;
+  height: 1.125rem;
+  text-align: right;
+  font-size: 0.875rem;
+  color: #525252;
+}
+.group-child9 {
+  position: absolute;
+  top: 25.25rem;
+  left: 1.25rem;
+  border-radius: 24px;
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+}
+.sarthak-kamra {
+  position: absolute;
+  top: 26rem;
+  left: 4.875rem;
+  font-weight: 600;
+}
+.group-child10,
+.group-child11,
+.group-child12,
+.group-child13 {
+  position: absolute;
+  height: 2.06%;
+  width: 6.07%;
+  top: 23.42%;
+  right: 2.89%;
+  bottom: 74.53%;
+  left: 91.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child11,
+.group-child12,
+.group-child13 {
+  top: 51.28%;
+  bottom: 46.66%;
+}
+.group-child12,
+.group-child13 {
+  top: 80.18%;
+  bottom: 17.76%;
+}
+.group-child13 {
+  top: 96.46%;
+  bottom: 1.48%;
+}
+.group-child14,
+.group-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10rem;
+}
+.group-child14 {
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16), 0 0 2px rgba(0, 0, 0, 0.08);
+  height: 6.375rem;
+}
+.group-child15 {
+  border: 1px solid #000;
+  box-sizing: border-box;
+  height: 2rem;
+  opacity: 0;
+}
+.edit {
+  position: absolute;
+  top: 0.438rem;
+  left: 0.75rem;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 0.25rem;
+  left: 0;
+  width: 10rem;
+  height: 2rem;
+  text-align: right;
+}
+.rectangle-parent7,
+.rectangle-parent8 {
+  position: absolute;
+  top: 2.188rem;
+  left: 0;
+  width: 10rem;
+  height: 2rem;
+}
+.rectangle-parent8 {
+  top: 4.125rem;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 80.375rem;
+  left: 32rem;
+  width: 10rem;
+  height: 6.375rem;
+  font-size: 0.875rem;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 39.25rem;
+  left: 12.5rem;
+  width: 43.25rem;
+  height: 109.438rem;
+}
+.not-logged-in-desktop {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 154.813rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.125rem;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
