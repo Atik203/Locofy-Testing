@@ -1,0 +1,278 @@
+.rectangle5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  width: 736px;
+  height: 513px;
+}
+.group-child41 {
+  position: absolute;
+  top: 129px;
+  left: 380px;
+  width: 320px;
+  height: 320px;
+  object-fit: cover;
+}
+.by-signing-up {
+  position: absolute;
+  top: 461px;
+  left: 383px;
+  font-size: 11px;
+  letter-spacing: -0.01em;
+  line-height: 16px;
+  display: inline-block;
+  width: 317px;
+  opacity: 0.6;
+}
+.group-child42 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px 8px 0 0;
+  background-color: #effff4;
+  width: 736px;
+  height: 50px;
+}
+.lets-learn-share {
+  position: absolute;
+  top: 17px;
+  left: 59px;
+  line-height: 16px;
+  font-weight: 500;
+  color: #008a45;
+  text-align: center;
+}
+.sign-in {
+  font-weight: 600;
+  color: #2f6ce5;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 81px;
+  left: 505px;
+  font-size: 13px;
+  color: #3d3d3d;
+}
+.create-account2 {
+  font-size: 24px;
+}
+.create-account2,
+.group-child43,
+.search-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child43 {
+  border-radius: 2px;
+  background-color: #fff;
+  border: 0.6px solid #d9d9db;
+  box-sizing: border-box;
+  width: 320px;
+  height: 38px;
+}
+.search-icon {
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.sign-up-with {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  line-height: 16px;
+}
+.group4 {
+  position: absolute;
+  top: 11px;
+  left: 85px;
+  width: 151px;
+  height: 16px;
+}
+.rectangle-parent22 {
+  position: absolute;
+  top: 365px;
+  left: 0;
+  width: 320px;
+  height: 38px;
+}
+.f-logo-rgb-blue-1024-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.sign-up-with-facebook-parent {
+  position: absolute;
+  top: 11px;
+  left: 77px;
+  width: 167px;
+  height: 16px;
+}
+.group-child45,
+.rectangle-parent23 {
+  position: absolute;
+  top: 319px;
+  left: 0;
+  width: 320px;
+  height: 38px;
+}
+.group-child45 {
+  top: 0;
+  border-radius: 20px;
+  background-color: #2f6ce5;
+  height: 40px;
+}
+.create-account3 {
+  position: absolute;
+  top: 12px;
+  left: 110px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.group-child46,
+.rectangle-parent24 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 320px;
+  height: 40px;
+}
+.group-child46 {
+  top: 0;
+  background-color: #f7f8fa;
+  border: 1px solid #d8dadb;
+  box-sizing: border-box;
+  height: 46px;
+}
+.email {
+  position: absolute;
+  top: 15px;
+  left: 12px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.group-child47,
+.rectangle-parent25 {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 320px;
+  height: 46px;
+}
+.group-child47 {
+  top: 0;
+  border-radius: 0 0 2px 2px;
+  background-color: #f7f8fa;
+  border: 1px solid #d8dadb;
+  box-sizing: border-box;
+}
+.group-child48,
+.rectangle-parent26 {
+  position: absolute;
+  top: 135px;
+  left: 0;
+  width: 320px;
+  height: 46px;
+}
+.group-child48 {
+  top: 0;
+  border-radius: 2px 2px 0 0;
+  background-color: #f7f8fa;
+  border: 1px solid #d8dadb;
+  box-sizing: border-box;
+}
+.last-name {
+  position: absolute;
+  top: 15px;
+  left: 172px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.line4 {
+  position: absolute;
+  top: -0.5px;
+  left: 159.5px;
+  border-right: 1px solid #d9d9db;
+  box-sizing: border-box;
+  width: 1px;
+  height: 46px;
+}
+.group-child50,
+.rectangle-parent27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 46px;
+}
+.group-child50 {
+  top: 14px;
+  left: 284px;
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.rectangle-parent28 {
+  top: 90px;
+  height: 46px;
+}
+.group-parent3,
+.group-parent4,
+.rectangle-parent28 {
+  position: absolute;
+  left: 0;
+  width: 320px;
+}
+.group-parent4 {
+  top: 0;
+  height: 181px;
+  text-align: left;
+  font-size: 15px;
+  color: #8a8a8a;
+}
+.group-parent3 {
+  top: 55px;
+  height: 240px;
+  text-align: center;
+  color: #fff;
+}
+.create-account-parent {
+  position: absolute;
+  top: 74px;
+  left: 36px;
+  width: 320px;
+  height: 403px;
+  text-align: left;
+}
+.group-child51,
+.rectangle-parent21 {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 736px;
+  height: 513px;
+}
+.group-child51 {
+  top: 0;
+  left: 722px;
+  width: 28px;
+  height: 28px;
+  opacity: 0.8;
+}
+.group-parent2 {
+  position: absolute;
+  top: 146px;
+  left: 352px;
+  width: 750px;
+  height: 553px;
+  text-align: right;
+  font-size: 14px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
